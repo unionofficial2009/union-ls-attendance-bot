@@ -1,0 +1,17 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "Discord Bot for UNION guild (Lumia Saga)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LeeShin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "snekfetch": "^3.6.4",
+    "superagent": "^3.8.2"
+    
+  }
+}
