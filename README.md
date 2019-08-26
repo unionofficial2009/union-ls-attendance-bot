@@ -1,0 +1,1 @@
+# union-ls-attendance-bot
